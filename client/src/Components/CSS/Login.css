@@ -1,0 +1,11 @@
+#loginTable{
+	background-color: #053752;
+	color: #E6EBEE;
+	font-family: Helvetica;
+	/*width: 100vh;*/
+	width: 70vh;
+	position:relative;
+	right: 80%;
+	border-radius: 10px;
+	padding-left: 2px;
+}

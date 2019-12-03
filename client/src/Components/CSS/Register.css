@@ -1,0 +1,44 @@
+#main{
+	background-color: #032131;
+	height: 88.5vh;
+	width: 100vw;
+	font-family: Helvetica;
+}
+
+
+#signUpForm {
+	background-color: #053752;
+	color: #E6EBEE;
+	position: relative;
+	float: right;
+	width: 30%;
+	height: 45%;
+	padding: 0 0 10px 10px;
+	border-radius: 20px;
+	margin: 10px 50px 10px 0;
+	/*background-color: blue;*/
+}
+
+.signUpInputBox {
+	margin-left: 10px;
+	width: 60%;
+	padding-right: 10%;
+	margin-bottom: 10px;
+	/*background-color: green;*/
+}
+
+button.registerButton{
+	position:relative;
+	margin-top: 4%;
+	margin-bottom: 3px;
+	left: 20%;
+	width: 60%;
+}
+
+a.forgotPasswordButton{
+	position:relative;
+	left: 38%;
+	color:#829BA9;
+	font-size: 70%;
+
+}

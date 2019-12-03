@@ -1,0 +1,42 @@
+.commentBox{
+	/*background-color: blue;*/
+	width: 40%;
+	height: auto;
+	position: relative;
+	top: 40px;
+	left: 25%;
+}
+
+.postsSection{
+	position: relative;
+	left: 25%;
+	/*background-color: white;*/
+	color: white;
+	height: 200px;
+
+}
+
+
+
+
+.textArea{
+	resize: none;
+	width: 50%;
+	height: 150px;
+	position:relative;
+	top: 30px;
+	border-radius: 5px;
+	border-style: solid;
+	background-color: #b4c3cb;
+	left: 30px;
+	font-size: 20px;
+
+}
+
+.submitButton{
+	position: relative;
+	margin-top: 4px;
+	
+	top:70px;
+
+}
